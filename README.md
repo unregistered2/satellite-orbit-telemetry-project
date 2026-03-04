@@ -1,0 +1,1 @@
+This is a project c++ project that simulates a satellite orbiting Eart, generating telemetry from it, and streaming it to the ground station. A user dashboard will be incorporated using typescript and React so that users can navigate the data.
